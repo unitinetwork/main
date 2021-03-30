@@ -1,6 +1,11 @@
 {
-  "id": 0,
-  "description": "Link or die",
-    "image": "https://cdn.discordapp.com/attachments/821420808852996096/825877962904961054/New_Project.png",
-  "name": "The One True Dollar"
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Link or Die",
+            "external_url": "https://www.unitinetwork.com",
+            "image": "https://cdn.discordapp.com/attachments/821420808852996096/825877962904961054/New_Project.png",
+            "name": "The One True Dollar"
+        },
+            ]
 }
